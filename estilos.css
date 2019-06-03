@@ -1,0 +1,21 @@
+@charset "utf-8";
+#titulo {
+	width: 700px;
+	margin-right: px;
+	float: left;
+}
+#cuerpo {
+	width: 1200px;
+}
+#imagenauto {
+	width: 700px;
+	float: left;
+}
+#marcas {
+	width: 699px;
+	float: left;
+}
+#imagenpublicitaria {
+	width: 500px;
+	float: right;
+}
